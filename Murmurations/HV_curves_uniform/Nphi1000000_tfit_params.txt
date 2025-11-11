@@ -1,0 +1,4 @@
+Student-t normalized fit parameters
+x0 = 0.334756
+sigma = 1.207687
+nu = 0.365770

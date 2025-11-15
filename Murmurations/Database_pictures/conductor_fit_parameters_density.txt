@@ -1,0 +1,4 @@
+Exponential fit (density): y = a - b*exp(-alpha*c)
+a = 1.014832708411e-05
+b = 4.585104548780e-06
+alpha = 3.093861247065e-04

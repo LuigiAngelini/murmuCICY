@@ -1,0 +1,15 @@
+Saturating exponential fit: N_iso = a - b * exp(-alpha * N_phi)
+==================================================
+a (asymptote) = 1317.00000000 ± 8.58411288
+b             = 325.38246348 ± 30.74426338
+alpha         = 0.0000230281 ± 0.0000043605
+
+Asymptotic limit: 1317.0 isogeny classes
+At N_phi=0: N_iso = 991.6
+
+Data points:
+  m= 100: N_phi= 12175, N_iso= 1071, predicted=1071.2, residual=-0.2, (81.3% of asymptote)
+  m= 200: N_phi= 48927, N_iso= 1212, predicted=1211.5, residual=0.5, (92.0% of asymptote)
+  m= 500: N_phi=304463, N_iso= 1296, predicted=1316.7, residual=-20.7, (98.4% of asymptote)
+  m=1000: N_phi=1216767, N_iso= 1314, predicted=1317.0, residual=-3.0, (99.8% of asymptote)
+  m=2000: N_phi=4866351, N_iso= 1317, predicted=1317.0, residual=-0.0, (100.0% of asymptote)

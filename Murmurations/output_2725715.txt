@@ -1,0 +1,49 @@
+Loading curve database...
+✓ Loaded curve_db with 437226 isogeny classes
+
+Generating phis using fraction sampling (phi = m/n)...
+Using 28 CPU cores
+Initial phi set: 15996000 (redundant) rational values
+After removing duplicates: 4866351 unique rational values
+
+Processing phis...
+Found 1317 phis in database below 100,000 conductors, associated to distinct isogeny classes
+
+Saving results...
+Saved scan data to phi_scan_results/(-2000,2000)_phi_scan_data.sobj
+Saved individual lists:
+  - phi_scan_results/(-2000,2000)_phi_reps.sobj
+  - phi_scan_results/(-2000,2000)_conductors.sobj
+  - phi_scan_results/(-2000,2000)_isogeny_classes.sobj
+
+============================================================
+SUMMARY
+============================================================
+Range: m, n ∈ [-2000, 2000)
+Total phis generated: 4866351
+Unique isogeny classes found: 1317
+Success rate: 0.03%
+Conductor range: [14, 99918]
+============================================================
+
+Creating enhanced visualizations...
+Saved plot: HV_curves/(-2000,2000)_phi_distribution.png
+Saved plot: HV_curves/(-2000,2000)_conductor_vs_phi.png
+Saved plot: HV_curves/(-2000,2000)_conductor_distribution_enhanced.png
+
+Extracting ap coefficients by rank...
+Averaging the aps...
+Done.
+
+Rank 0: 664 isogeny classes
+Rank 1: 624 isogeny classes
+Rank 2: 29 isogeny classes
+Rank 3: 0 isogeny classes
+
+Saved average aps to HV_curves/(-2000,2000)_average_aps.sobj
+
+Creating ap coefficient plots...
+Saved plot: HV_curves/(-2000,2000)_ap_averages_rank0_vs_rank1.png
+Skipped all ranks plot: would be identical to rank 0 vs rank 1 plot
+
+Done!

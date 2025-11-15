@@ -1,0 +1,4 @@
+Exponential fit: y = a - b*exp(-alpha*c)
+a = 4436.58000565
+b = 2004.48630176
+alpha = 0.00030939

@@ -1,0 +1,5 @@
+Student-t normalized fit parameters
+Fraction sampling: phi = m/n with m, n in (-100, 100)
+x0 = 0.491685
+sigma = 0.599001
+nu = 0.892236

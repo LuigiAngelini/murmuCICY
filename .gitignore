@@ -5,9 +5,14 @@ __pycache__/
 *.log
 *.tmp
 Murmurations/Research Projects.code-workspace
-Murmurations/Curve Database (Conductor < 100 000)
 Murmurations/my_job.sage
 Murmurations/my_job.sage.py
 Murmurations/my_job.sh
-Murmurations/output_2710390.txt
-Murmurations/error_2710390.txt
+Murmurations/output_*.txt
+Murmurations/error_*.txt
+
+# Ignore all folders in Murmurations
+Murmurations/*/
+
+# But keep Mathematica notebooks
+!Murmurations/Mathematica_notebooks/

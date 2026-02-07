@@ -5,9 +5,9 @@ __pycache__/
 *.log
 *.tmp
 Murmurations/Research Projects.code-workspace
-Murmurations/my_job.sage
-Murmurations/my_job.sage.py
-Murmurations/my_job.sh
+Murmurations/*.sage
+Murmurations/*.sage.py
+Murmurations/*.sh
 Murmurations/output_*.txt
 Murmurations/error_*.txt
 
